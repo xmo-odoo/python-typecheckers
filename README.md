@@ -10,6 +10,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [pyrefly](https://pyreflycheck.org/)
 - [pyright](https://github.com/Microsoft/pyright)
 - [ty](https://docs.astral.sh/ty)
+- [zuban](https://zubanls.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/) (IDE inference engine)
 - [pyre](https://pyre-check.org/) ([superseded by pyrefly](https://github.com/facebook/pyre-check/pull/987))
 - [pytype](https://github.com/google/pytype) ([abandoned](https://github.com/google/pytype/issues/1925))
